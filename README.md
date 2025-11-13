@@ -9,11 +9,8 @@ Note: It does not work well on Mac OS now, but will be fixed soon.
 
 ## Prerequisites
 To run the project successfully, you need to install the following packages included in "requirements.txt" after installation.
-- *simplejson*, *icecream*, *pandas*, *networkx*, *parse*, *progress*, *qubitmapping*, *userproperty*
+- *stim*, *simplejson*, *icecream*, *pandas*, *networkx*, *parse*, *progress*, *qubitmapping*, *userproperty*
 
-```
-pip install -r requirements.txt
-```
 Note that the packages *qubitmapping* and *userproperty* are developed by Y.Hwang for this project.
 
 ## Installation
@@ -34,6 +31,5 @@ git clone https://github.com/YongsooHWANG/encoded-logical-circuit.git
 This project is licensed under the [BSD-3-Clause](/docs/LICENSE.md)
 
 ## Acknowledgement
-
-This work was partly supported by Institute for Information & communications Technology Promotion (IITP) grant funded by the Korea government (MSIT) (No. 2019-0-00003, Research and Development of Core Technologies for Programming, Running, Implementing and Validating of Fault-Tolerant Quantum Computing System & No.2022-0-00463, Development of a quantum repeater in optical ﬁber networks for quantum internet) and the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (No. NRF-2019M3E4A1080146).
+This work was partly supported by Institute for Information & communications Technology Promotion (IITP) grant funded by the Korea government (MSIT) (No. 2019-0-00003, Research and Development of Core Technologies for Programming, Running, Implementing and Validating of Fault-Tolerant Quantum Computing System.
 
